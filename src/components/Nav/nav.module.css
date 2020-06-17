@@ -1,0 +1,13 @@
+.cont{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 10px;
+}
+.nav{
+    font-size: 25px;
+    font-weight: 600;
+    color: black;
+}
+.nav:hover{
+    color: blue;
+}

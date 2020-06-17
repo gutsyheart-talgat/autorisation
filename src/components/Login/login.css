@@ -1,0 +1,22 @@
+.login-back{
+    background: rgb(255, 245, 207);
+    min-width: 100vw;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.login-cont{
+    background: white;
+    min-height: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 30%;
+    min-height: 350px;
+}
+.login-textCont{
+    display: flex;
+    flex-direction: column;
+    width: 80%;
+}
